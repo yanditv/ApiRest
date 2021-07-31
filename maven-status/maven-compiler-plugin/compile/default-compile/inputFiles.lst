@@ -1,5 +1,5 @@
-C:\Users\YANDI\Documents\workspace-spring-tool-suite-4-4.11.0.RELEASE\api_person\src\main\java\com\person\rest\personaRest.java
-C:\Users\YANDI\Documents\workspace-spring-tool-suite-4-4.11.0.RELEASE\api_person\src\main\java\com\person\ApiPersonApplication.java
-C:\Users\YANDI\Documents\workspace-spring-tool-suite-4-4.11.0.RELEASE\api_person\src\main\java\com\person\model\persona.java
-C:\Users\YANDI\Documents\workspace-spring-tool-suite-4-4.11.0.RELEASE\api_person\src\main\java\com\person\control\personController.java
-C:\Users\YANDI\Documents\workspace-spring-tool-suite-4-4.11.0.RELEASE\api_person\src\main\java\com\person\dao\personaDAO.java
+C:\Users\YANDI\Documents\workspace-spring-tool-suite-4-4.11.0.RELEASE\ApiRest\src\main\java\com\person\dao\personaDAO.java
+C:\Users\YANDI\Documents\workspace-spring-tool-suite-4-4.11.0.RELEASE\ApiRest\src\main\java\com\person\control\personController.java
+C:\Users\YANDI\Documents\workspace-spring-tool-suite-4-4.11.0.RELEASE\ApiRest\src\main\java\com\person\model\persona.java
+C:\Users\YANDI\Documents\workspace-spring-tool-suite-4-4.11.0.RELEASE\ApiRest\src\main\java\com\person\rest\personaRest.java
+C:\Users\YANDI\Documents\workspace-spring-tool-suite-4-4.11.0.RELEASE\ApiRest\src\main\java\com\person\ApiRestApplication.java
