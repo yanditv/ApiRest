@@ -1,5 +1,0 @@
-com\person\rest\personaRest.class
-com\person\dao\personaDAO.class
-com\person\model\persona.class
-com\person\ApiRestApplication.class
-com\person\control\personController.class
